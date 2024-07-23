@@ -1,4 +1,4 @@
 package com.example.wangley.services;
 
-public class PessoaServices {
+public class PessoaService {
 }
